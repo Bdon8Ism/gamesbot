@@ -1,6 +1,6 @@
 {
-  "name": "Games Bot -",
-  "description": "Games Bot - Speed - Fkk - rps",
+  "name": "bot.js",
+  "description": "bot.js",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
